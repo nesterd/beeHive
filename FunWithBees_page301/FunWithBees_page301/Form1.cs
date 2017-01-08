@@ -21,12 +21,12 @@ namespace FunWithBees_page301
             comboBoxWorkerBeeJob.SelectedIndex = 0;
 
             Worker[] workers = new Worker[4];
-            workers[0] = new Worker(BeesJobsList.GetList(0, 1));
-            workers[1] = new Worker(BeesJobsList.GetList(2, 3));
-            workers[2] = new Worker(BeesJobsList.GetList(4, 5));
-            workers[3] = new Worker(BeesJobsList.List);
+            workers[0] = new Worker(BeesJobsList.GetList(0, 1), 175);
+            workers[1] = new Worker(BeesJobsList.GetList(2, 3), 114);
+            workers[2] = new Worker(BeesJobsList.GetList(4, 5), 149);
+            workers[3] = new Worker(BeesJobsList.List, 155);
 
-            queen = new Queen(workers);
+            queen = new Queen(workers, 275);
         }
 
         private void buttonNextShift_Click(object sender, EventArgs e)
