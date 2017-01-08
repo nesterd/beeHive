@@ -11,3 +11,6 @@ C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBe
 C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\bin\Debug\Configuration.dll
 C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\bin\Debug\Bees.pdb
 C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\bin\Debug\Configuration.pdb
+C:\beeHive\FunWithBees_page301\FunWithBees_page301\bin\Debug\FunWithBees_page301.exe.config
+C:\beeHive\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.exe
+C:\beeHive\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.pdb
