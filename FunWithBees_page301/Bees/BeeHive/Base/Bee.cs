@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Configuration.JobsList;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +9,7 @@ namespace Bees.BeeHive.Base
 {
     public class Bee
     {
-        public const double honeyUnitsConsumedPerMg = .25;
+        public double honeyUnitsConsumedPerMg = HoneyUnitsConsumedPerMg.Value;
 
         public double WeightMg { get; private set; }
 
