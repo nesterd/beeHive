@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Configuration.JobsList
 {
-    class HoneyUnitsConsumedPerMg
+    public static class HoneyUnitsConsumedPerMg
     {
+        public static double Value { get; private set; } = .25;
     }
 }

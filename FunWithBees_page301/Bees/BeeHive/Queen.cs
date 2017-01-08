@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 namespace Bees.BeeHive
 {
     public class Queen
+        : Base.Bee
     {
         Worker[] workers;
         int shiftNumber = 0;
 
-        public Queen (Worker[] workers)
+        public Queen (Worker[] workers, double weightMg)
+            : base(weightMg)
         {
             this.workers = workers;
         }

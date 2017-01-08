@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Bees.BeeHive
 {
     public class Worker
+        : Base.Bee
     {
         string[] jobsICanDo;
         int shiftsToWork;
@@ -29,7 +30,8 @@ namespace Bees.BeeHive
             }
         }
 
-        public Worker(string[] jobsICanDo)
+        public Worker(string[] jobsICanDo, double weightMg)
+            : base(weightMg)
         {
             this.jobsICanDo = jobsICanDo;
         }
