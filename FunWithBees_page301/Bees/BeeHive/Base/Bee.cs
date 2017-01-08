@@ -8,7 +8,7 @@ namespace Bees.BeeHive.Base
 {
     public class Bee
     {
-        public const double honeyUnitsConsumedPerMg = .255;
+        public const double honeyUnitsConsumedPerMg = .25;
 
         public double WeightMg { get; private set; }
 
