@@ -65,5 +65,13 @@ namespace Bees.BeeHive
             else
                 return false;
         }
+
+        public override double HoneyConsumptionRate()
+        {
+            //double result = base.HoneyConsumptionRate();
+            //result += shiftsWorked * .65;
+            //return result;
+            return base.HoneyConsumptionRate() + shiftsWorked * .65;
+        }
     }
 }

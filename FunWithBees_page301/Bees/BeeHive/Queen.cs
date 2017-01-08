@@ -30,10 +30,12 @@ namespace Bees.BeeHive
 
         public string WorkTheNextShift()
         {
+            double totalHoneyConsumed = HoneyConsumptionRate();
             shiftNumber++;
             string report = "Отчет для смены#" + shiftNumber + "\r\n";
             for (int i = 0; i < workers.Length; i++)
             {
+                totalHoneyConsumed += workers[i].HoneyConsumptionRate();
                 if (workers[i].DidYouFinish())
                     report += StartOfReportLine(i) + " закончил работу\r\n";
 
@@ -50,6 +52,7 @@ namespace Bees.BeeHive
 
             }
 
+            report += $"Всего съедено меда за смену: {totalHoneyConsumed} units\r\n";
             return report;
         }
 
