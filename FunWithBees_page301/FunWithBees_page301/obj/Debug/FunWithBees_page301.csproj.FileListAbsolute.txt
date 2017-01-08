@@ -1,0 +1,13 @@
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\bin\Debug\FunWithBees_page301.exe.config
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\bin\Debug\FunWithBees_page301.exe
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\bin\Debug\FunWithBees_page301.pdb
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.csprojResolveAssemblyReference.cache
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.MainForm.resources
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.Properties.Resources.resources
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.csproj.GenerateResource.Cache
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.exe
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.pdb
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\bin\Debug\Bees.dll
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\bin\Debug\Configuration.dll
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\bin\Debug\Bees.pdb
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\FunWithBees_page301\bin\Debug\Configuration.pdb

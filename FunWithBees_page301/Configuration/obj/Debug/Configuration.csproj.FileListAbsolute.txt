@@ -1,0 +1,5 @@
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\Configuration\bin\Debug\Configuration.dll
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\Configuration\bin\Debug\Configuration.pdb
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\Configuration\obj\Debug\Configuration.csprojResolveAssemblyReference.cache
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\Configuration\obj\Debug\Configuration.dll
+C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBees_page301\Configuration\obj\Debug\Configuration.pdb
