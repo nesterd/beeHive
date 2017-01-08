@@ -14,3 +14,13 @@ C:\Users\neste\OneDrive\Документы\Visual Studio 2015\Projects\FunWithBe
 C:\beeHive\FunWithBees_page301\FunWithBees_page301\bin\Debug\FunWithBees_page301.exe.config
 C:\beeHive\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.exe
 C:\beeHive\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.pdb
+C:\beeHive\FunWithBees_page301\FunWithBees_page301\bin\Debug\FunWithBees_page301.exe
+C:\beeHive\FunWithBees_page301\FunWithBees_page301\bin\Debug\FunWithBees_page301.pdb
+C:\beeHive\FunWithBees_page301\FunWithBees_page301\bin\Debug\Bees.dll
+C:\beeHive\FunWithBees_page301\FunWithBees_page301\bin\Debug\Configuration.dll
+C:\beeHive\FunWithBees_page301\FunWithBees_page301\bin\Debug\Bees.pdb
+C:\beeHive\FunWithBees_page301\FunWithBees_page301\bin\Debug\Configuration.pdb
+C:\beeHive\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.csprojResolveAssemblyReference.cache
+C:\beeHive\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.MainForm.resources
+C:\beeHive\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.Properties.Resources.resources
+C:\beeHive\FunWithBees_page301\FunWithBees_page301\obj\Debug\FunWithBees_page301.csproj.GenerateResource.Cache
